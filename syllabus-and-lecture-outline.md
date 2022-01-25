@@ -69,14 +69,14 @@ circle {
 
 # Computational Foundations for ML
 
-UPDATE: For the first two weeks of the semester, classes will be remote via Zoom. To get the Zoom link, please log into Piazza or Canvas (see the [Technology](#technology) section below for links).{.question}
+UPDATE: For the first two weeks of the semester, classes will be remote via Zoom. To get the Zoom link, please log into Piazza or Canvas (see the [Technology](#technology) section below for links). CMU is returning to in-person lectures shortly; we'll discuss in class. {.question}
 
 
 ## Overview
 
 * Course numbers: 10-606 and 10-607
 * Time: MWF 3:05-4:25pm
-* Location: online for first two weeks, then GHC 5222 for mini 3, then CUC McKenna for mini 4
+* Location: online for first two weeks, then GHC 4101 for mini 3, then CUC McKenna for mini 4
 * Instructor: [Geoff Gordon](https://www.cs.cmu.edu/~ggordon/)
 * TAs: Aditya Paul, Xiaoyu Xu, Aishwarya Jadhav
 * Office hours: posted on Piazza
@@ -147,7 +147,7 @@ Tentative schedule, subject to change. Typically two days per week will be lectu
 W | 1/19 | . | Overview; start on data types ([notes](datatypes.pdf), [slides](01-intro-datatypes-inked.pdf)) | .
 F | 1/21 | . | Lab 0: Python | optional
 M | 1/24 | Data types | Sets; functions ([slides](02-datatypes-inked.pdf)) | .
-W | 1/26 | Linear algebra | Vectors, matrices ([notes](linear-algebra.pdf)) | .
+W | 1/26 | Linear algebra | Vectors, matrices ([notes](linear-algebra.pdf)) | for more detail, [Strang](https://math.mit.edu/~gs/linearalgebra/) is a great resource
 F | 1/28 | . | Lab 1: data types | HW1 out
 M | 1/31 | Linear algebra | Linear systems | Lab 1 due
 W | 2/2 | Linear algebra | Linear regression | .
