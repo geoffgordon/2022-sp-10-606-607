@@ -147,7 +147,7 @@ Tentative schedule, subject to change. Typically two days per week will be lectu
 W | 1/19 | . | Overview; start on data types ([notes](datatypes.pdf), [slides](01-intro-datatypes-inked.pdf)) | .
 F | 1/21 | . | Lab 0: Python | optional
 M | 1/24 | Data types | Sets; functions ([slides](02-datatypes-inked.pdf)) | .
-W | 1/26 | Linear algebra | Vectors, matrices ([notes](linear-algebra.pdf)) | for more detail, [Strang](https://math.mit.edu/~gs/linearalgebra/) is a great resource
+W | 1/26 | Linear algebra | Vectors, matrices ([notes](linear-algebra.pdf), [slides](03-vector-spaces-inked.pdf)) | for more detail, [Strang](https://math.mit.edu/~gs/linearalgebra/) is a great resource
 F | 1/28 | . | Lab 1: data types | HW1 out
 M | 1/31 | Linear algebra | Linear systems | Lab 1 due
 W | 2/2 | Linear algebra | Linear regression | .
