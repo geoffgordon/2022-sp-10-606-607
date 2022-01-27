@@ -82,7 +82,7 @@ UPDATE: For the first two weeks of the semester, classes will be remote via Zoom
 * TAs: Aditya Paul, Xiaoyu Xu, Aishwarya Jadhav
 * Office hours: posted on Piazza
 * Textbook: there is no required text for the course, but we'll provide links to required and suggested readings
-* Resources: we'll use Piazza for discussion and announcements, Canvas for a gradebook, Zoom for online lectures, and various tools for assignment submission; see the [Technology](#technology) section below
+* Resources: we'll use Piazza for discussion and announcements, Canvas for a gradebook, Zoom for online lectures, and various tools for assignment submission; see the [Technology](#technology) section below. Your first step should be to join Piazza via the link in the Technology section.
 
 ## Description
 
@@ -185,8 +185,6 @@ M | 3/14 | Overview, optimization | Gradient descent, SGD | .
 .|.| Overflow or advanced topic | TBD | .
 
 ## Technology
-
-We're in the process of setting up the course, so some of the links below might not work yet. We'll remove this paragraph once we're done.
 
 Whether in person or remote, you will need a device during class. For most in-person classes a phone should suffice. For some activities you'll need a bigger screen and a keyboard; this includes all labs, and we'll warn about other such activities in advance. You will need a modern browser on your device (a recent version of Chrome, Firefox, Safari, or Edge). Please use your devices only to engage with the class material.
 
