@@ -70,7 +70,7 @@ circle {
 
 # Computational Foundations for ML
 
-UPDATE: For the first two weeks of the semester, classes will be remote via Zoom. To get the Zoom link, please log into Piazza or Canvas (see the [Technology](#technology) section below for links). CMU is returning to in-person lectures shortly; we'll discuss in class. {.question}
+UPDATE: ~~For the first two weeks of the semester, classes will be remote via Zoom. To get the Zoom link, please log into Piazza or Canvas (see the [Technology](#technology) section below for links).~~ CMU is returning to in-person classes on 1/31/22. {.question}
 
 
 ## Overview
@@ -192,11 +192,13 @@ We'll use [Piazza](https://piazza.com/cmu/spring2022/1060610607) for class-relat
 
 You can see your grades for the course so far in [Canvas](https://canvas.cmu.edu/courses/27578). For assignments submitted through other tools (see below) it may take a little while before your submission and grade appear in Canvas.
 
-We'll use [Gradescope](https://www.gradescope.com) for submission of written assignments. You will need to scan papers for submission. For legibility, simply taking a photo won't work: instead you need an app that rectifies, crops, and adjusts contrast. There are many available, some of which are free and high quality, including Scannable, Adobe Scan, and Office Lens. The Wirecutter has some [reviews](https://www.nytimes.com/wirecutter/reviews/best-mobile-scanning-apps/).
+We'll use [Gradescope](https://www.gradescope.com) for submission of written assignments. Registered students should launch Gradescope via Canvas (there's a tab for this on the left-hand navigation menu in Canvas); this lets us link your Canvas and Gradescope accounts.
+
+You will need to scan papers for submission. For legibility, simply taking a photo won't work: instead you need an app that rectifies, crops, and adjusts contrast. There are many available, some of which are free and high quality, including Scannable, Adobe Scan, and Office Lens. The Wirecutter has some [reviews](https://www.nytimes.com/wirecutter/reviews/best-mobile-scanning-apps/).
 
 All required code submissions will be in Python. You may want a Python installation locally on your device, but submissions will be online via browser-based tools (see below). If you use a local installation, be careful of version mismatches, package availability, etc.; the behavior of your code in our system is what you'll be graded on, and TAs may not be able to help diagnose version-related differences.
 
-For most code submissions we plan to use repl.it. This is a web-based tool that lets you edit, run code, check it against our submission criteria, and submit.
+For most code submissions we plan to use [repl.it](https://repl.it/). This is a web-based tool that lets you edit, run code, check it against our submission criteria, and submit. Please follow the instructions given on Piazza and Canvas to let us know your repl.it account name, so that we can give credit.
 
 Another useful resource is [Google Colab](https://colab.research.google.com), which lets you run Python code in your browser via a notebook interface. They have a free plan (and are happy to charge you for higher resource limits). We don't plan to use Colab for any official submissions, but it can be a great way to try stuff out.
 
