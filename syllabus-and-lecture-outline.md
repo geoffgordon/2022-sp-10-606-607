@@ -135,7 +135,7 @@ We are diverse in many ways, and this diversity is fundamental to building and m
 Unfortunately, incidents of bias or discrimination do occur, whether intentional or unintentional. They contribute to creating an unwelcoming environment for individuals and groups at the university. Therefore, the university encourages anyone who experiences or observes unfair or hostile treatment on the basis of identity to speak out for justice and support, within the moment of the incident or after the incident has passed. Anyone can share these experiences using the following resources:
 
 * Center for Student Diversity and Inclusion: csdi@andrew.cmu.edu, (412) 268-2150
-* Report-It online anonymous reporting platform: reportit.net, username: tartans, password: plaid
+* Report-It online anonymous reporting platform: [reportit.net](http://reportit.net), username: tartans, password: plaid
 
 ## Course schedule
 
