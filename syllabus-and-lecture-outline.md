@@ -151,7 +151,7 @@ M | 1/24 | Data types | Sets; functions ([slides](02-datatypes-inked.pdf)) | .
 W | 1/26 | Linear algebra | Vectors, matrices ([notes](linear-algebra.pdf), [slides](03-vector-spaces-inked.pdf)) | for more detail, [Strang](https://math.mit.edu/~gs/linearalgebra/) is a great resource
 F | 1/28 | . | Lab 1: data types | HW1 out
 M | 1/31 | Linear algebra | Linear systems ([slides](04-linear-systems-inked.pdf)) | Lab 1 due
-W | 2/2 | Linear algebra | Linear regression | .
+W | 2/2 | Linear algebra | Linear systems and regression ([notes](linear-algebra-2.pdf)) | .
 F | 2/4 | . | Lab 2: linear algebra | .
 M | 2/7 | Matrix calculus | Derivatives and differentials | Lab 2 due
 W | 2/9 | . | Overflow and review period | HW1 due
