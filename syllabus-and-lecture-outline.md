@@ -224,7 +224,7 @@ For regrade requests: if you think there may be an error in your grade, please u
 
 ### Audit and Pass/Fail
 
-We are happy to allow auditing if there is space in the course. You will need to register for the course and then have the instructor fill out an audit form. Check with the registrar for applicable deadlines. In order to receive an audit pass, auditors must complete 75% of the participation exercises per mini, and must achieve a score of 75% or more on at least two labs per mini. Auditors are also welcome to submit homeworks and quizzes for grading.
+We are happy to allow auditing if there is space in the course. You will need to register for the course and then have the instructor fill out an audit form. Check with the registrar for applicable deadlines. In order to receive an audit pass, auditors must complete 75% of the participation exercises per mini, and must achieve a score of 75% or more on at least two labs per mini. (For both of the above, any optional assignments do not count in the total.) Auditors are also welcome to submit homeworks and quizzes for grading.
 
 We are also happy for you to take the course as Pass/Fail. Instructor permission is not required. What grade is the cutoff for Pass will depend on your program or department. Be sure to check with your program or department as to whether you can count a Pass/Fail course toward your degree requirements.
 
