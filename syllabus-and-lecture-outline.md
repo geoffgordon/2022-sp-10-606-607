@@ -153,7 +153,7 @@ F | 1/28 | . | Lab 1: data types | HW1 out
 M | 1/31 | Linear algebra | Linear systems ([slides](04-linear-systems-inked.pdf)) | Lab 1 due
 W | 2/2 | Linear algebra | Linear systems and regression ([notes](linear-algebra-2.pdf) [slides](05-linear-systems-inked.pdf)) | .
 F | 2/4 | . | Lab 2: linear algebra | .
-M | 2/7 | Matrix calculus | Derivatives and differentials | Lab 2 due
+M | 2/7 | Matrix calculus | Derivatives and differentials ([notes](calc-review.pdf)) | Lab 2 due
 W | 2/9 | . | Overflow and review period | HW1 due
 F | 2/11 | . | Quiz 1 (in class) | .
 M | 2/14 | Matrix calculus | Calculating differentials; integrals | HW2 out
