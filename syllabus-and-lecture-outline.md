@@ -148,15 +148,15 @@ Tentative schedule, subject to change. Typically two days per week will be lectu
 W | 1/19 | . | Overview; start on data types ([notes](datatypes.pdf), [slides](01-intro-datatypes-inked.pdf)) | .
 F | 1/21 | . | Lab 0: Python | optional
 M | 1/24 | Data types | Sets; functions ([slides](02-datatypes-inked.pdf)) | .
-W | 1/26 | Linear algebra | Vectors, matrices ([notes](linear-algebra.pdf), [slides](03-vector-spaces-inked.pdf)) | for more detail, [Strang](https://math.mit.edu/~gs/linearalgebra/) is a great resource
+W | 1/26 | Linear algebra | Vectors, matrices ([notes](linear-algebra.pdf), [slides](03-vector-spaces-inked.pdf)) | suggested reference [Strang](https://math.mit.edu/~gs/linearalgebra/)
 F | 1/28 | . | Lab 1: data types | HW1 out
 M | 1/31 | Linear algebra | Linear systems ([slides](04-linear-systems-inked.pdf)) | Lab 1 due
 W | 2/2 | Linear algebra | Linear systems and regression ([notes](linear-algebra-2.pdf) [slides](05-linear-systems-inked.pdf)) | .
 F | 2/4 | . | Lab 2: linear algebra | .
-M | 2/7 | Matrix calculus | Derivatives and differentials ([notes](calc-review.pdf) [notes2](function-space.pdf) [slides](06-algebra-calculus.pdf)) | Lab 2 due; suggested reference [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+M | 2/7 | Matrix calculus | Derivatives and differentials ([notes](calc-review.pdf) [notes2](function-space.pdf) [slides](06-algebra-calculus.pdf)) | suggested reference [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf); Lab 2 due
 W | 2/9 | . | Overflow and review period ([notes](matrix-differential.pdf) [slides](07-review-and-differentials.pdf)) | HW1 due
 F | 2/11 | . | Quiz 1 (in class) | .
-M | 2/14 | Matrix calculus | Calculating differentials; integrals | HW2 out
+M | 2/14 | Matrix calculus | Calculating differentials; integrals | suggested reference [Magnus & Neudecker](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119541219); <br> HW2 out
 W | 2/16 | Matrix calculus | Lagrange multipliers, nonlinear systems | .
 F | 2/18 | Probability | Random variables; discrete and continuous distributions; multivariate distributions | .
 M | 2/21 | . | Lab 3: calculus | .
