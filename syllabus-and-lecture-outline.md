@@ -157,7 +157,7 @@ M | 2/7 | Matrix calculus | Derivatives and differentials ([notes](calc-review.p
 W | 2/9 | . | Overflow and review period ([notes](matrix-differential.pdf) [slides](07-review-and-differentials.pdf)) | HW1 due
 F | 2/11 | . | Quiz 1 (in class) | .
 M | 2/14 | Matrix calculus | Calculating differentials ([slides](08-matrix-differentials.pdf)) | suggested reference [Magnus & Neudecker](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119541219); <br> HW2 out
-W | 2/16 | Matrix calculus | Lagrange multipliers, nonlinear systems | .
+W | 2/16 | Matrix calculus | Lagrange multipliers, nonlinear systems ([notes](nonlinear.pdf)) | .
 F | 2/18 | Probability | Random variables; discrete and continuous distributions; multivariate distributions | .
 M | 2/21 | . | Lab 3: calculus | .
 W | 2/23 | Probability | Mean and variance; sampling | Lab 3 due
