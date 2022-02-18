@@ -143,7 +143,7 @@ Tentative schedule, subject to change. Typically two days per week will be lectu
 
 ### Mini 3 (10-606):
 
-| Day | Date | Unit | Lecture | Notes |
+| Day | Date | Unit | Lecture | Info |
 -|-|-|-|-
 W | 1/19 | . | Overview; start on data types ([notes](datatypes.pdf), [slides](01-intro-datatypes-inked.pdf)) | .
 F | 1/21 | . | Lab 0: Python | optional
@@ -151,26 +151,26 @@ M | 1/24 | Data types | Sets; functions ([slides](02-datatypes-inked.pdf)) | .
 W | 1/26 | Linear algebra | Vectors, matrices ([notes](linear-algebra.pdf), [slides](03-vector-spaces-inked.pdf)) | suggested reference [Strang](https://math.mit.edu/~gs/linearalgebra/)
 F | 1/28 | . | Lab 1: data types | HW1 out
 M | 1/31 | Linear algebra | Linear systems ([slides](04-linear-systems-inked.pdf)) | Lab 1 due
-W | 2/2 | Linear algebra | Linear systems and regression ([notes](linear-algebra-2.pdf) [slides](05-linear-systems-inked.pdf)) | .
+W | 2/2 | Linear algebra | Linear systems and regression ([notes](linear-algebra-2.pdf), [slides](05-linear-systems-inked.pdf)) | .
 F | 2/4 | . | Lab 2: linear algebra | .
-M | 2/7 | Matrix calculus | Derivatives and differentials ([notes](calc-review.pdf) [notes2](function-space.pdf) [slides](06-algebra-calculus.pdf)) | suggested reference [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf); Lab 2 due
-W | 2/9 | . | Overflow and review period ([notes](matrix-differential.pdf) [slides](07-review-and-differentials.pdf)) | HW1 due
+M | 2/7 | Matrix calculus | Derivatives and differentials ([notes](calc-review.pdf), [notes2](function-space.pdf), [slides](06-algebra-calculus.pdf)) | suggested reference [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf); Lab 2 due
+W | 2/9 | . | Overflow and review period ([notes](matrix-differential.pdf), [slides](07-review-and-differentials.pdf)) | HW1 due
 F | 2/11 | . | Quiz 1 (in class) | .
 M | 2/14 | Matrix calculus | Calculating differentials ([slides](08-matrix-differentials.pdf)) | suggested reference [Magnus & Neudecker](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119541219); <br> HW2 out
 W | 2/16 | Matrix calculus | Lagrange multipliers, nonlinear systems ([notes](nonlinear.pdf), [slides](09-working-with-differentials.pdf)) | .
-F | 2/18 | Probability | Random variables; discrete and continuous distributions; multivariate distributions | .
+F | 2/18 | Probability | Random variables; discrete and continuous distributions; multivariate distributions ([notes](probability.pdf)) | .
 M | 2/21 | . | Lab 3: calculus | .
 W | 2/23 | Probability | Mean and variance; sampling | Lab 3 due
 F | 2/25 | Probability | Conditional and marginal distributions; Bayes rule | .
-M | 2/28 | . | Lab 4: probability | HW2 due
-W | 3/2 | . | Overflow and review period | Lab 4 due
+M | 2/28 | . | Lab 4: probability | HW2 Q1, Q2 due
+W | 3/2 | . | Overflow and review period | Lab 4 due, HW2 Q3 due
 F | 3/4 | . | Quiz 2 (in exam room) | .
 
 ### Mini 4 (10-607):
 
 (Schedule outline, will be filled in as we get closer to the start of the mini)
 
-| Day | Date | Unit | Lecture | Notes |
+| Day | Date | Unit | Lecture | Info |
 -|-|-|-|-
 M | 3/14 | Overview, optimization | Gradient descent, SGD | .
 .|.| Logic | Logical systems and proofs | . 
