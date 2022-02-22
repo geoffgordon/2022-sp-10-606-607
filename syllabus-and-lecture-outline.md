@@ -158,10 +158,10 @@ W | 2/9 | . | Overflow and review period ([notes](matrix-differential.pdf), [sli
 F | 2/11 | . | Quiz 1 (in class) | .
 M | 2/14 | Matrix calculus | Calculating differentials ([slides](08-matrix-differentials.pdf)) | suggested reference [Magnus & Neudecker](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119541219); <br> HW2 out
 W | 2/16 | Matrix calculus | Lagrange multipliers, nonlinear systems ([notes](nonlinear.pdf), [slides](09-working-with-differentials.pdf)) | .
-F | 2/18 | Probability | Random variables; discrete and continuous distributions; multivariate distributions ([notes](probability.pdf), [slides](10-nonlinear.pdf)) | .
+F | 2/18 | Matrix calculus | Nonlinear systems and Newton's method ([slides](10-nonlinear.pdf)) | .
 M | 2/21 | . | Lab 3: calculus | .
-W | 2/23 | Probability | Mean and variance; sampling | Lab 3 due
-F | 2/25 | Probability | Conditional and marginal distributions; Bayes rule | .
+W | 2/23 | Probability | Random variables and distributions ([notes](probability.pdf), [notes2](random-variable.pdf)) | Lab 3 due
+F | 2/25 | Probability | Mean and variance; Bayes rule | .
 M | 2/28 | . | Lab 4: probability | HW2 Q1, Q2 due
 W | 3/2 | . | Overflow and review period | Lab 4 due, HW2 Q3 due
 F | 3/4 | . | Quiz 2 (in exam room) | .
