@@ -161,7 +161,7 @@ W | 2/16 | Matrix calculus | Lagrange multipliers, nonlinear systems ([notes](no
 F | 2/18 | Matrix calculus | Nonlinear systems and Newton's method ([slides](10-nonlinear.pdf)) | .
 M | 2/21 | . | Lab 3: calculus | .
 W | 2/23 | Probability | Random variables and distributions ([notes](probability.pdf), [notes2](random-variable.pdf), [slides](11-probability.pdf)) | Lab 3 due
-F | 2/25 | Probability | Mean and variance; Bayes rule | .
+F | 2/25 | Probability | Mean and variance; Bayes rule ([notes](mean-variance.pdf), [notes2](evidence.pdf)) | .
 M | 2/28 | . | Lab 4: probability | HW2 Q1, Q2 due
 W | 3/2 | . | Overflow and review period | Lab 4 due, HW2 Q3 due
 F | 3/4 | . | Quiz 2 (in exam room) | .
