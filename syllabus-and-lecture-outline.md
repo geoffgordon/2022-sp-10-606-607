@@ -141,6 +141,22 @@ Unfortunately, incidents of bias or discrimination do occur, whether intentional
 
 Tentative schedule, subject to change. Typically two days per week will be lectures, and one will be some other activity like a lab or quiz; see below for details.
 
+
+### Mini 4 (10-607):
+
+| Day | Date | Unit | Lecture | Info |
+-|-|-|-|-
+M | 3/14 | Overview, optimization | Gradient descent | see 10-606 notes on calculus from 2/7 &ff
+W | 3/16 | Optimization | SGD | .
+F | 3/18 | . | Lab 0: Python | optional
+M | 3/21 | Logic | Logical systems and proofs | Lab 0 due 
+W | 3/23 | Logic | Proof techniques | .
+F | 3/25 | . | Lab 1: optimization | .
+
+(more to come)
+
+{.vspace}
+
 ### Mini 3 (10-606):
 
 | Day | Date | Unit | Lecture | Info |
@@ -166,9 +182,6 @@ M | 2/28 | . | Lab 4: probability | HW2 Q1, Q2 due
 W | 3/2 | . | Overflow and review period ([slides](13-evidence.pdf)) | Lab 4 due, HW2 Q3 due
 F | 3/4 | . | Quiz 2 (in exam room) | .
 
-### Mini 4 (10-607):
-
-(Schedule under construction)
 
 ## Technology
 
