@@ -146,7 +146,7 @@ Tentative schedule, subject to change. Typically two days per week will be lectu
 
 | Day | Date | Unit | Lecture | Info |
 -|-|-|-|-
-M | 3/14 | Overview, optimization | Gradient descent | see 10-606 notes on calculus from 2/7 &ff
+M | 3/14 | Overview, optimization | Gradient descent ([notes](gradient.pdf), [slides](01-intro.pdf)) | see 10-606 notes on calculus from 2/7 &ff
 W | 3/16 | Optimization | SGD | .
 F | 3/18 | . | Lab 0: Python | optional
 M | 3/21 | Logic | Logical systems and proofs | Lab 0 due 
