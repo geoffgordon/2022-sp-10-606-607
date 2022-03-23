@@ -149,8 +149,8 @@ Tentative schedule, subject to change. Typically two days per week will be lectu
 M | 3/14 | Overview, optimization | Gradient descent ([notes](gradient.pdf), [slides](01-intro.pdf)) | see 10-606 notes on calculus from 2/7 &ff
 W | 3/16 | Optimization | GD, SGD ([slides](02-gradient.pdf)) | see Boyd & Vandenberghe sec 9.3; [Mitliagkas notes](http://mitliagkas.github.io/ift6085-2019/ift-6085-lecture-5-notes.pdf)
 F | 3/18 | . | Lab 0: Python | optional
-M | 3/21 | Logic | Logical systems and proofs ([notes](classical-logic.pdf), [slides](03-logic.pdf)) | Lab 0 due 
-W | 3/23 | Logic | Proof techniques | .
+M | 3/21 | Logic | Logical systems: propositional logic ([notes](classical-logic.pdf), [slides](03-logic.pdf)) | Lab 0 due 
+W | 3/23 | Logic | Predicate logic ([slides](04-logic.pdf)) | .
 F | 3/25 | . | Lab 1: optimization | .
 
 (more to come)
