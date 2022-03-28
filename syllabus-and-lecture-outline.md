@@ -152,7 +152,7 @@ F | 3/18 | . | Lab 0: Python | optional
 M | 3/21 | Logic | Propositional logic ([notes](proplogic.pdf), [slides](03-logic.pdf)) | Lab 0 due 
 W | 3/23 | Logic | Predicate logic ([notes](predlogic.pdf), [slides](04-logic.pdf)) | .
 F | 3/25 | . | Lab 1: optimization | .
-M | 3/28 | Logic | Quantifiers, induction | HW1 out, Lab 1 due
+M | 3/28 | Logic | Quantifiers, induction ([slides](05-quantifiers.pdf)) | HW1 out, Lab 1 due
 W | 3/30 | Logic | Proof examples | .
 F | 4/1 | . | Lab 2: logic | .
 M | 4/4 | Complexity | Analyzing complexity | Lab 2 due 
