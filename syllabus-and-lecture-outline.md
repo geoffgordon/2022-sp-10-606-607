@@ -331,8 +331,8 @@ Here are some websites from previous versions of the course. Each one has some u
 * 10-607, Geoff Gordon, [Fall 2017](https://piazza.com/class/j1z1bzwb6tb7cd?cid=397)
 * 10-606 and 10-607, Matt Gormley, [Fall 2018](https://www.cs.cmu.edu/~mgormley/courses/606-607-f18/index.html)
 * 10-606 and 10-607, Leila Wehbe, [Summer 2020](https://www.cs.cmu.edu/~lwehbe/10606607_M20/#description)
-* 10-606, Pat Virtue, [Fall 2021](https://www.cs.cmu.edu/~10606/#overview)
-* 10-607, Pat Virtue, [Fall 2021](https://www.cs.cmu.edu/~10607/#overview)
+* 10-606, Pat Virtue, [Fall 2021](https://www.cs.cmu.edu/~10606-f21/)
+* 10-607, Pat Virtue, [Fall 2021](https://www.cs.cmu.edu/~10607-f21/)
 
 ## Note to people outside CMU
 Please feel free to reuse any of these course materials that you find of use in your own courses. We ask that you retain any copyright notices, and include written notice indicating the source of any materials you use.
