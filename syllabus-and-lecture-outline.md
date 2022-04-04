@@ -155,7 +155,7 @@ F | 3/25 | . | Lab 1: optimization | .
 M | 3/28 | Logic | Quantifiers, induction ([slides](05-quantifiers.pdf)) | HW1 out, Lab 1 due
 W | 3/30 | Logic | Proof examples ([notes](perceptron.pdf), [slides](06-proof-examples.pdf)) | .
 F | 4/1 | . | Lab 2: logic | .
-M | 4/4 | Complexity | Modeling computation ([notes](computation.pdf)) | Lab 2 due 
+M | 4/4 | Complexity | Modeling computation ([notes](computation.pdf), [slides](07-computation.pdf)) | Lab 2 due 
 W | 4/6 | . | Overflow/review period | HW1 due
 F | 4/8 | . | no class, Carnival | .
 M | 4/11 | . | Quiz I (in class) | .
