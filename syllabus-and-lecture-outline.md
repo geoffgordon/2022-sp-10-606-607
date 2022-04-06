@@ -156,7 +156,7 @@ M | 3/28 | Logic | Quantifiers, induction ([slides](05-quantifiers.pdf)) | HW1 o
 W | 3/30 | Logic | Proof examples ([notes](perceptron.pdf), [slides](06-proof-examples.pdf)) | .
 F | 4/1 | . | Lab 2: logic | .
 M | 4/4 | Complexity | Modeling computation ([notes](computation.pdf), [slides](07-computation.pdf)) | Lab 2 due 
-W | 4/6 | . | Overflow/review period | HW1 due
+W | 4/6 | . | Overflow/review period ([slides](quiz1-review.pdf)) | HW1 due
 F | 4/8 | . | no class, Carnival | .
 M | 4/11 | . | Quiz I (in class) | .
 
