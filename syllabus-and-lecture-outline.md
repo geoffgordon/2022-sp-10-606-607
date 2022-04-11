@@ -170,7 +170,6 @@ F | 4/29 | . | Lab 4: model evaluation | HW2 due
 M | 5/1 | . | no class | Lab 4 due
 F | 5/6 | . | Quiz II | 5:30-8:30p, room to be assigned by registrar
 
-{.vspace}
 
 ### Mini 3 (10-606):
 
