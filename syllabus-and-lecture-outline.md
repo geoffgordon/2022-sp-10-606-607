@@ -160,8 +160,8 @@ W | 4/6 | . | Overflow/review period ([slides](quiz1-review.pdf)) | HW1 due
 F | 4/8 | . | no class, Carnival | .
 M | 4/11 | . | Quiz I (in class) | .
 W | 4/13 | Complexity | Complexity analysis ([notes](complexity.pdf), [slides](08-complexity.pdf)) | .
-F | 4/15 | Complexity | Dynamic programming | HW2 out
-M | 4/18 | . | Lab 3: complexity | .
+F | 4/15 | Complexity | Dynamic programming ([notes](dynamic-programming.pdf)) | .
+M | 4/18 | . | Lab 3: complexity | HW2 out
 W | 4/20 | Evaluation | Information | Lab 3 due
 F | 4/22 | Evaluation | Overfitting/generalization | .
 M | 4/25 | Evaluation | Model selection | .
