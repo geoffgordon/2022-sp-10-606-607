@@ -159,11 +159,11 @@ M | 4/4 | Complexity | Modeling computation ([notes](computation.pdf), [slides](
 W | 4/6 | . | Overflow/review period ([slides](quiz1-review.pdf)) | HW1 due
 F | 4/8 | . | no class, Carnival | .
 M | 4/11 | . | Quiz I (in class) | .
-W | 4/13 | Complexity | Complexity analysis ([notes](complexity.pdf), [slides](08-complexity.pdf)) | .
-F | 4/15 | Complexity | Dynamic programming ([notes](dynamic-programming.pdf), [slides](09-dynamic-programming.pdf)) | .
+W | 4/13 | Complexity | Complexity analysis ([notes](complexity.pdf), [slides](08-complexity.pdf)) | Aho et al. [Ch. 3](http://infolab.stanford.edu/~ullman/focs/ch03.pdf)
+F | 4/15 | Complexity | Dynamic programming ([notes](dynamic-programming.pdf), [slides](09-dynamic-programming.pdf)) | [Blum's notes](https://www.cs.cmu.edu/~avrim/451f13/lectures/lect0926.pdf) on DP
 M | 4/18 | . | Lab 3: complexity | HW2 out
 W | 4/20 | Evaluation | Information ([notes](info.pdf), [slides](10-information.pdf)) | Lab 3 due
-F | 4/22 | Evaluation | Overfitting/generalization | .
+F | 4/22 | Evaluation | Overfitting/generalization ([notes](generalization.pdf)) | .
 M | 4/25 | Evaluation | Model selection | .
 W | 4/27 | . | Overflow/review period | .
 F | 4/29 | . | Lab 4: model evaluation | .
