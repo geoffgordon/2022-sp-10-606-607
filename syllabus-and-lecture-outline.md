@@ -165,7 +165,7 @@ M | 4/18 | . | Lab 3: complexity | HW2 out
 W | 4/20 | Evaluation | Information ([notes](info.pdf), [slides](10-information.pdf)) | Lab 3 due
 F | 4/22 | Evaluation | Overfitting/generalization ([notes](generalization.pdf), [slides](11-generalization.pdf)) | .
 M | 4/25 | Evaluation | Model selection ([slides](12-validation.pdf))| .
-W | 4/27 | . | Overflow/review period | .
+W | 4/27 | . | Overflow/review period ([slides](13-review.pdf)) | .
 F | 4/29 | . | Lab 4: model evaluation | .
 M | 5/2 | . | no class | Lab 4 due, HW2 due
 F | 5/6 | . | Quiz II | 5:30-8:30p, GHC 4215
